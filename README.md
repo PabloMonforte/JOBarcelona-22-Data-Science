@@ -16,7 +16,7 @@ El repositorio consta de 4 archivos.
 * hackathon.R
 * results.csv 
 
-El archivo train.csv contiene los datos con los que se ha entrenado el modelo.\n
-El archivo test_x.csv contiene los datos con los cuales se quiere predecir los tipos de insecto.
-El archivo hackathon.R contiene los algoritmos y el estudio realizado para hacer las predicciones.
-El archivo results.csv contiene los resultados de las predicciones.
+El archivo train.csv contiene los datos con los que se ha entrenado el modelo. 
+El archivo test_x.csv contiene los datos con los cuales se quiere predecir los tipos de insecto. 
+El archivo hackathon.R contiene los algoritmos y el estudio realizado para hacer las predicciones. 
+El archivo results.csv contiene los resultados de las predicciones. 
