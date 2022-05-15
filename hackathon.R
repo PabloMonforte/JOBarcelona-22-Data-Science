@@ -124,18 +124,3 @@ predicciones_finales <- predict(random_forest, datarf_oficiales)
 # Finalmente exportamos el resultado de las predicciones
 
 write.csv(predicciones_finales, "results.csv")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
